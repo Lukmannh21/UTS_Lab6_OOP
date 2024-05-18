@@ -11,3 +11,7 @@ Output Program :
 
 **Nomor 4**
 ![image](https://github.com/Lukmannh21/UTS_Lab6_OOP/assets/161408812/3258a943-73ea-4310-bb7d-cfa243994447)
+
+controlling menggunakan Github Desktop 
+![image](https://github.com/Lukmannh21/UTS_Lab6_OOP/assets/161408812/7307b198-34f3-4247-ad68-6a7c6cad7042)
+
